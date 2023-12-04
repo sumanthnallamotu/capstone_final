@@ -1,0 +1,4 @@
+LLM,Average Text-to-SQL Time,Text-to-SQL % Successful,Average Query Time,Average Interpretation Time,Total Time
+GPT-4,12.18,82.0,3.1,7.73,23.009999999999998
+sqlcoder-7b,2.48,45.0,2.49,3.72,8.690000000000001
+sqlcoder-34b,2.91,91.0,4.72,7.03,14.66
